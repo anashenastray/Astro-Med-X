@@ -9,3 +9,4 @@
 .externalNativeBuild
 .cxx
 *.apk
+!/release/AstroMed-X.apk
