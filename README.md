@@ -16,10 +16,6 @@
   <a href="#-core-app-features--capabilities">Feature Tour</a>
 </p>
 
-<p align="center">
-  <img src="docs/screenshot.png" width="85%" alt="Astro Med-X Running on Tablet" style="border-radius: 16px; border: 1px solid #E2E8F0;" />
-</p>
-
 ---
 
 ## ⚡ Quick Start: Testing & Install Guide
